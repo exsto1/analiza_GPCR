@@ -6,7 +6,7 @@ PF00000,12
 PF00000,20
 '''
 
-outgrupy_dane = open('temp_files/outgroups.txt').readlines()
+outgrupy_dane = open('found_families.txt').readlines()
 outgrupy = []
 for i in outgrupy_dane:
     outgrupy.append(i.rstrip())
