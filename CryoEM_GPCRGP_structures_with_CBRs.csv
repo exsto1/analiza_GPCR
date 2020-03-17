@@ -1,0 +1,11 @@
+Class,GPCR,G protein,Agonist,PDB ID,Resolution (Å),URL,Publication
+A,Rhodopsin,Gi,NAG,6CMO,4.5,http://www.rcsb.org/structure/6CMO,https://www.ncbi.nlm.nih.gov/pubmed/?term=29899450
+A,5HT1B,Go,donitriptan,6G79,3.78,http://www.rcsb.org/structure/6G79,https://www.ncbi.nlm.nih.gov/pubmed/?term=29925951
+A,A1A,Gi2,Adenosine,6D9H,3.6,https://www.rcsb.org/structure/6D9H,https://www.ncbi.nlm.nih.gov/pubmed/?term=29925945
+A,A2A,miniGs,NECA,6GDG,4.11,https://www.rcsb.org/structure/6gdg,https://www.ncbi.nlm.nih.gov/pubmed/?term=29726815
+A,OPRM,Gi,DAMGO,6DDF,3.5,https://www.rcsb.org/structure/6ddf,https://www.ncbi.nlm.nih.gov/pubmed/?term=29899455
+B,calcitonin,Gs,Calcitonin gene-related peptide,6E3Y,3.3,http://www.rcsb.org/structure/6E3Y,https://www.ncbi.nlm.nih.gov/pubmed/?term=30209400
+B,GLP-1,Gs,G protein-biased peptide exendin-P5,6B3J,3.3,https://www.rcsb.org/structure/6B3J,https://www.ncbi.nlm.nih.gov/pubmed/?term=29466332
+A,CB2,Gi,AM12033,6KPF,2.9,http://www.rcsb.org/structure/6KPF,https://www.ncbi.nlm.nih.gov/pubmed/?term=32004463
+A,CB1,Gi,AM841,6KPG,3,http://www.rcsb.org/structure/6KPG,https://www.ncbi.nlm.nih.gov/pubmed/?term=32004463
+A,CB2,Gi,"WIN 55,212-2",6PT0,3.2,http://www.rcsb.org/structure/6PT0,https://www.ncbi.nlm.nih.gov/pubmed/?term=32004460
