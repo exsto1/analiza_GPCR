@@ -1,0 +1,109 @@
+Family PF00006, ATP-synt_ab         , member of the clan CL0023, P-loop_NTPase       : 182828  hitów, link:http://pfam.xfam.org/family/PF00006
+Family PF02874, ATP-synt_ab_N       , member of the clan CL0275, HAS-barrel          : 122428  hitów, link:http://pfam.xfam.org/family/PF02874
+Family PF00129, MHC_I               , member of the clan CL0343, MHC                 : 50973   hitów, link:http://pfam.xfam.org/family/PF00129
+Family PF00306, ATP-synt_ab_C       , member of the clan       ,                     : 45207   hitów, link:http://pfam.xfam.org/family/PF00306
+Family PF07497, Rho_RNA_bind        , member of the clan CL0021, OB                  : 29029   hitów, link:http://pfam.xfam.org/family/PF07497
+Family PF07498, Rho_N               , member of the clan CL0306, HeH                 : 24242   hitów, link:http://pfam.xfam.org/family/PF07498
+Family PF07654, C1-set              , member of the clan CL0011, Ig                  : 22267   hitów, link:http://pfam.xfam.org/family/PF07654
+Family PF18269, T3SS_ATPase_C       , member of the clan       ,                     : 21207   hitów, link:http://pfam.xfam.org/family/PF18269
+Family PF00001, 7tm_1               , member of the clan CL0192, GPCR_A              : 19923   hitów, link:http://pfam.xfam.org/family/PF00001
+Family PF08300, HCV_NS5a_1a         , member of the clan       ,                     : 17146   hitów, link:http://pfam.xfam.org/family/PF08300
+Family PF01506, HCV_NS5a            , member of the clan       ,                     : 16168   hitów, link:http://pfam.xfam.org/family/PF01506
+Family PF08301, HCV_NS5a_1b         , member of the clan       ,                     : 15759   hitów, link:http://pfam.xfam.org/family/PF08301
+Family PF12941, HCV_NS5a_C          , member of the clan       ,                     : 14327   hitów, link:http://pfam.xfam.org/family/PF12941
+Family PF01036, Bac_rhodopsin       , member of the clan CL0192, GPCR_A              : 10879   hitów, link:http://pfam.xfam.org/family/PF01036
+Family PF06623, MHC_I_C             , member of the clan       ,                     : 10452   hitów, link:http://pfam.xfam.org/family/PF06623
+Family PF16886, ATP-synt_ab_Xtn     , member of the clan       ,                     : 9235    hitów, link:http://pfam.xfam.org/family/PF16886
+Family PF10413, Rhodopsin_N         , member of the clan       ,                     : 4956    hitów, link:http://pfam.xfam.org/family/PF10413
+Family PF00998, RdRP_3              , member of the clan CL0027, RdRP                : 4783    hitów, link:http://pfam.xfam.org/family/PF00998
+Family PF01001, HCV_NS4b            , member of the clan       ,                     : 4136    hitów, link:http://pfam.xfam.org/family/PF01001
+Family PF01006, HCV_NS4a            , member of the clan       ,                     : 3994    hitów, link:http://pfam.xfam.org/family/PF01006
+Family PF02907, Peptidase_S29       , member of the clan CL0124, Peptidase_PA        : 3586    hitów, link:http://pfam.xfam.org/family/PF02907
+Family PF01538, HCV_NS2             , member of the clan       ,                     : 3443    hitów, link:http://pfam.xfam.org/family/PF01538
+Family PF07652, Flavi_DEAD          , member of the clan CL0023, P-loop_NTPase       : 3436    hitów, link:http://pfam.xfam.org/family/PF07652
+Family PF01539, HCV_env             , member of the clan       ,                     : 3228    hitów, link:http://pfam.xfam.org/family/PF01539
+Family PF01542, HCV_core            , member of the clan       ,                     : 3222    hitów, link:http://pfam.xfam.org/family/PF01542
+Family PF01560, HCV_NS1             , member of the clan       ,                     : 3178    hitów, link:http://pfam.xfam.org/family/PF01560
+Family PF01543, HCV_capsid          , member of the clan       ,                     : 3155    hitów, link:http://pfam.xfam.org/family/PF01543
+Family PF02321, OEP                 , member of the clan CL0105, Hybrid              : 3082    hitów, link:http://pfam.xfam.org/family/PF02321
+Family PF00501, AMP-binding         , member of the clan CL0378, ANL                 : 2029    hitów, link:http://pfam.xfam.org/family/PF00501
+Family PF01553, Acyltransferase     , member of the clan CL0228, Acyltransferase     : 1869    hitów, link:http://pfam.xfam.org/family/PF01553
+Family PF00002, 7tm_2               , member of the clan CL0192, GPCR_A              : 1707    hitów, link:http://pfam.xfam.org/family/PF00002
+Family PF01442, Apolipoprotein      , member of the clan       ,                     : 1597    hitów, link:http://pfam.xfam.org/family/PF01442
+Family PF00214, Calc_CGRP_IAPP      , member of the clan       ,                     : 1589    hitów, link:http://pfam.xfam.org/family/PF00214
+Family PF02793, HRM                 , member of the clan       ,                     : 1557    hitów, link:http://pfam.xfam.org/family/PF02793
+Family PF08240, ADH_N               , member of the clan CL0296, GroES               : 1496    hitów, link:http://pfam.xfam.org/family/PF08240
+Family PF00005, ABC_tran            , member of the clan CL0023, P-loop_NTPase       : 1427    hitów, link:http://pfam.xfam.org/family/PF00005
+Family PF00069, Pkinase             , member of the clan CL0016, PKinase             : 913     hitów, link:http://pfam.xfam.org/family/PF00069
+Family PF00072, Response_reg        , member of the clan CL0304, CheY                : 893     hitów, link:http://pfam.xfam.org/family/PF00072
+Family PF02518, HATPase_c           , member of the clan CL0025, His_Kinase_A        : 845     hitów, link:http://pfam.xfam.org/family/PF02518
+Family PF00107, ADH_zinc_N          , member of the clan CL0063, NADP_Rossmann       : 843     hitów, link:http://pfam.xfam.org/family/PF00107
+Family PF00528, BPD_transp_1        , member of the clan CL0404, BPD_transp_1        : 730     hitów, link:http://pfam.xfam.org/family/PF00528
+Family PF13853, 7tm_4               , member of the clan CL0192, GPCR_A              : 708     hitów, link:http://pfam.xfam.org/family/PF13853
+Family PF00512, HisKA               , member of the clan CL0025, His_Kinase_A        : 549     hitów, link:http://pfam.xfam.org/family/PF00512
+Family PF00615, RGS                 , member of the clan CL0272, RGS                 : 469     hitów, link:http://pfam.xfam.org/family/PF00615
+Family PF01048, PNP_UDP_1           , member of the clan CL0408, PUP                 : 392     hitów, link:http://pfam.xfam.org/family/PF01048
+Family PF07690, MFS_1               , member of the clan CL0015, MFS                 : 385     hitów, link:http://pfam.xfam.org/family/PF07690
+Family PF00015, MCPsignal           , member of the clan       ,                     : 377     hitów, link:http://pfam.xfam.org/family/PF00015
+Family PF11421, Synthase_beta       , member of the clan       ,                     : 373     hitów, link:http://pfam.xfam.org/family/PF11421
+Family PF04055, Radical_SAM         , member of the clan CL0036, TIM_barrel          : 366     hitów, link:http://pfam.xfam.org/family/PF04055
+Family PF00213, OSCP                , member of the clan CL0255, ATP_synthase        : 363     hitów, link:http://pfam.xfam.org/family/PF00213
+Family PF00672, HAMP                , member of the clan CL0681, HAMP                : 352     hitów, link:http://pfam.xfam.org/family/PF00672
+Family PF00076, RRM_1               , member of the clan CL0221, RRM                 : 338     hitów, link:http://pfam.xfam.org/family/PF00076
+Family PF05351, GMP_PDE_delta       , member of the clan CL0159, E-set               : 332     hitów, link:http://pfam.xfam.org/family/PF05351
+Family PF00271, Helicase_C          , member of the clan CL0023, P-loop_NTPase       : 315     hitów, link:http://pfam.xfam.org/family/PF00271
+Family PF00126, HTH_1               , member of the clan CL0123, HTH                 : 292     hitów, link:http://pfam.xfam.org/family/PF00126
+Family PF00535, Glycos_transf_2     , member of the clan CL0110, GT-A                : 288     hitów, link:http://pfam.xfam.org/family/PF00535
+Family PF03466, LysR_substrate      , member of the clan CL0177, PBP                 : 284     hitów, link:http://pfam.xfam.org/family/PF03466
+Family PF13193, AMP-binding_C       , member of the clan CL0531, AMP-binding_C       : 281     hitów, link:http://pfam.xfam.org/family/PF13193
+Family PF00135, COesterase          , member of the clan CL0028, AB_hydrolase        : 274     hitów, link:http://pfam.xfam.org/family/PF00135
+Family PF00171, Aldedh              , member of the clan CL0099, ALDH-like           : 269     hitów, link:http://pfam.xfam.org/family/PF00171
+Family PF08448, PAS_4               , member of the clan CL0183, PAS_Fold            : 257     hitów, link:http://pfam.xfam.org/family/PF08448
+Family PF00534, Glycos_transf_1     , member of the clan CL0113, GT-B                : 257     hitów, link:http://pfam.xfam.org/family/PF00534
+Family PF00096, zf-C2H2             , member of the clan CL0361, C2H2-zf             : 251     hitów, link:http://pfam.xfam.org/family/PF00096
+Family PF00106, adh_short           , member of the clan CL0063, NADP_Rossmann       : 249     hitów, link:http://pfam.xfam.org/family/PF00106
+Family PF00046, Homeodomain         , member of the clan CL0123, HTH                 : 244     hitów, link:http://pfam.xfam.org/family/PF00046
+Family PF00583, Acetyltransf_1      , member of the clan CL0257, Acetyltrans         : 240     hitów, link:http://pfam.xfam.org/family/PF00583
+Family PF07992, Pyr_redox_2         , member of the clan CL0063, NADP_Rossmann       : 232     hitów, link:http://pfam.xfam.org/family/PF07992
+Family PF07714, Pkinase_Tyr         , member of the clan CL0016, PKinase             : 228     hitów, link:http://pfam.xfam.org/family/PF07714
+Family PF00004, AAA                 , member of the clan CL0023, P-loop_NTPase       : 220     hitów, link:http://pfam.xfam.org/family/PF00004
+Family PF00400, WD40                , member of the clan CL0186, Beta_propeller      : 219     hitów, link:http://pfam.xfam.org/family/PF00400
+Family PF00440, TetR_N              , member of the clan CL0123, HTH                 : 219     hitów, link:http://pfam.xfam.org/family/PF00440
+Family PF00041, fn3                 , member of the clan CL0159, E-set               : 218     hitów, link:http://pfam.xfam.org/family/PF00041
+Family PF02653, BPD_transp_2        , member of the clan CL0142, Membrane_trans      : 218     hitów, link:http://pfam.xfam.org/family/PF02653
+Family PF00571, CBS                 , member of the clan       ,                     : 217     hitów, link:http://pfam.xfam.org/family/PF00571
+Family PF08447, PAS_3               , member of the clan CL0183, PAS_Fold            : 212     hitów, link:http://pfam.xfam.org/family/PF08447
+Family PF00270, DEAD                , member of the clan CL0023, P-loop_NTPase       : 211     hitów, link:http://pfam.xfam.org/family/PF00270
+Family PF00753, Lactamase_B         , member of the clan CL0381, Metallo-HOrase      : 209     hitów, link:http://pfam.xfam.org/family/PF00753
+Family PF00067, p450                , member of the clan       ,                     : 208     hitów, link:http://pfam.xfam.org/family/PF00067
+Family PF13426, PAS_9               , member of the clan CL0183, PAS_Fold            : 207     hitów, link:http://pfam.xfam.org/family/PF13426
+Family PF07100, ASRT                , member of the clan       ,                     : 207     hitów, link:http://pfam.xfam.org/family/PF07100
+Family PF00486, Trans_reg_C         , member of the clan CL0123, HTH                 : 206     hitów, link:http://pfam.xfam.org/family/PF00486
+Family PF00155, Aminotran_1_2       , member of the clan CL0061, PLP_aminotran       : 205     hitów, link:http://pfam.xfam.org/family/PF00155
+Family PF00990, GGDEF               , member of the clan CL0276, Nucleot_cyclase     : 204     hitów, link:http://pfam.xfam.org/family/PF00990
+Family PF12786, GBV-C_env           , member of the clan       ,                     : 204     hitów, link:http://pfam.xfam.org/family/PF12786
+Family PF12796, Ank_2               , member of the clan CL0465, Ank                 : 202     hitów, link:http://pfam.xfam.org/family/PF12796
+Family PF00392, GntR                , member of the clan CL0123, HTH                 : 202     hitów, link:http://pfam.xfam.org/family/PF00392
+Family PF00248, Aldo_ket_red        , member of the clan       ,                     : 195     hitów, link:http://pfam.xfam.org/family/PF00248
+Family PF00009, GTP_EFTU            , member of the clan CL0023, P-loop_NTPase       : 194     hitów, link:http://pfam.xfam.org/family/PF00009
+Family PF01381, HTH_3               , member of the clan CL0123, HTH                 : 191     hitów, link:http://pfam.xfam.org/family/PF01381
+Family PF00520, Ion_trans           , member of the clan CL0030, Ion_channel         : 190     hitów, link:http://pfam.xfam.org/family/PF00520
+Family PF00115, COX1                , member of the clan       ,                     : 187     hitów, link:http://pfam.xfam.org/family/PF00115
+Family PF12833, HTH_18              , member of the clan CL0123, HTH                 : 185     hitów, link:http://pfam.xfam.org/family/PF12833
+Family PF04868, PDE6_gamma          , member of the clan       ,                     : 185     hitów, link:http://pfam.xfam.org/family/PF04868
+Family PF01391, Collagen            , member of the clan       ,                     : 184     hitów, link:http://pfam.xfam.org/family/PF01391
+Family PF00892, EamA                , member of the clan CL0184, DMT                 : 181     hitów, link:http://pfam.xfam.org/family/PF00892
+Family PF13181, TPR_8               , member of the clan CL0020, TPR                 : 180     hitów, link:http://pfam.xfam.org/family/PF13181
+Family PF04542, Sigma70_r2          , member of the clan CL0123, HTH                 : 179     hitów, link:http://pfam.xfam.org/family/PF04542
+Family PF13439, Glyco_transf_4      , member of the clan CL0113, GT-B                : 177     hitów, link:http://pfam.xfam.org/family/PF13439
+Family PF07686, V-set               , member of the clan CL0011, Ig                  : 165     hitów, link:http://pfam.xfam.org/family/PF07686
+Family PF00589, Phage_integrase     , member of the clan CL0382, DNA-mend            : 164     hitów, link:http://pfam.xfam.org/family/PF00589
+Family PF00061, Lipocalin           , member of the clan CL0116, Calycin             : 163     hitów, link:http://pfam.xfam.org/family/PF00061
+Family PF00989, PAS                 , member of the clan CL0183, PAS_Fold            : 161     hitów, link:http://pfam.xfam.org/family/PF00989
+Family PF00575, S1                  , member of the clan CL0021, OB                  : 161     hitów, link:http://pfam.xfam.org/family/PF00575
+Family PF00132, Hexapep             , member of the clan CL0536, HEXAPEP             : 155     hitów, link:http://pfam.xfam.org/family/PF00132
+Family PF00027, cNMP_binding        , member of the clan CL0029, Cupin               : 155     hitów, link:http://pfam.xfam.org/family/PF00027
+Family PF00293, NUDIX               , member of the clan CL0261, NUDIX               : 154     hitów, link:http://pfam.xfam.org/family/PF00293
+Family PF00071, Ras                 , member of the clan CL0023, P-loop_NTPase       : 153     hitów, link:http://pfam.xfam.org/family/PF00071
+Family PF02823, ATP-synt_DE_N       , member of the clan       ,                     : 153     hitów, link:http://pfam.xfam.org/family/PF02823
+Family PF00664, ABC_membrane        , member of the clan CL0241, ABC_membrane        : 152     hitów, link:http://pfam.xfam.org/family/PF00664
