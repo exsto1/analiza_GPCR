@@ -50,8 +50,8 @@ def find_title_clan(family):
 filtered_results = {i:results[i] for i in results if results[i] > 150}
 sorted_results = sorted(filtered_results, key=lambda i: filtered_results[i], reverse=True)
 max_len = len(max(filtered_results, key=lambda i: filtered_results[i]))
-summary = open('summary.txt', 'w')
-summary_csv = open('summary.csv', 'w')
+summary = open('old_files/summary.txt', 'w')
+summary_csv = open('old_files/summary.csv', 'w')
 summary_csv.write(f'rodzina_id,rodzina_slownie,clan_id,clan_slownie,liczba_hitow,url\n')
 for i in tqdm(sorted_results):
     family, clan_word, clan_id, url = find_title_clan(i)
